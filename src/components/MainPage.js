@@ -131,7 +131,7 @@ const onThemeButtonClick = () => {
             </div>
             <div class="padding-header" style={{ padding: "20px" }}>
                 <a target="_blank" href="https://ftx.com/#a=finstreet">
-                    <img src="BannerFTXNews.png" style={{ width: "100%" }} /></a>
+                    <img src="https://hodlinfo.com/static/media/banneriost.fb479f67.jpg" style={{ width: "100%" }} /></a>
             </div>
             <Footer />
         <div class="d-flex justify-content-center" style={{border:"solid 1px #191d28","background-color":"#191d28",position:"fixed",left:"0","align-items":"center",width:"100vw",height:"47px",bottom:"0","z-index":"8"}}><button class="add-button btn btn-outline-info" style={{display: "block"}}>Add hodlinfo to home screen</button></div>
